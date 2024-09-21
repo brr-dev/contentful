@@ -5,3 +5,4 @@
 
 export * from './classes';
 export * from './ContentfulAPI.types';
+export * as Contentful from './types';
