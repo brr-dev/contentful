@@ -1,8 +1,6 @@
-/*
- * @author Brandon Ramirez <brandon@brr.dev>
- * @copyright Copyright (c) 2024
- */
+// ! Copyright (c) 2024, Brandon Ramirez, brr.dev
 
-export function testFunc(): void {
-    console.log('Test success.');
-}
+export * from "./api";
+export * from "./types";
+export * from "./ContentfulAPI.types";
+export * from "./classes";
