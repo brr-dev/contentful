@@ -3,7 +3,7 @@
  * @copyright Copyright (c) 2024
  */
 
-import { ContentfulAPI } from '../src';
+import { ContentfulAPI } from '../src/Contentful';
 
 describe('ContentfulAPI tests', () => {
     it('builds without error', () => {

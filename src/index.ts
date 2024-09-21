@@ -1,6 +1,6 @@
-// ! Copyright (c) 2024, Brandon Ramirez, brr.dev
+/*
+ * @author Brandon Ramirez <brandon@brr.dev>
+ * @copyright Copyright (c) 2024
+ */
 
-export * from "./api";
-export * from "./types";
-export * from "./ContentfulAPI.types";
-export * from "./classes";
+export * as Contentful from './Contentful';
