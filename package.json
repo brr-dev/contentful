@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "name": "@brr-dev/typescript-package-template",
-  "description": "A template repo for bundling TypeScript packages.",
+  "name": "@brr-dev/contentful",
+  "description": "An API controller for the Contentful Delivery CMS.",
   "author": "Brandon Ramirez <brandon@brr.dev>",
   "license": "MIT",
   "main": "./dist/index.js",
@@ -28,5 +28,8 @@
     "ts-node": "^10.9.2",
     "tsup": "^8.3.0",
     "typescript": "^5.6.2"
+  },
+  "dependencies": {
+    "@brr-dev/fetcher": "^1.0.0"
   }
 }

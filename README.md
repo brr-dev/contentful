@@ -1,3 +1,3 @@
-# @brr-dev/typescript-package-template
+# @brr-dev/contentful
 
-A template repo for bundling TypeScript packages.
+An API controller for the Contentful Delivery CMS.
