@@ -3,5 +3,5 @@
  * @copyright Copyright (c) 2024
  */
 
-export * as Contentful from './Contentful';
-export * from './ContentfulAPI.types';
+export * from './classes';
+export * from './types';

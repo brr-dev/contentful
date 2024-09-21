@@ -1,5 +1,5 @@
 {
-  "version": "0.2.4",
+  "version": "0.2.5",
   "name": "@brr-dev/contentful",
   "description": "An API controller for the Contentful Delivery CMS.",
   "author": "Brandon Ramirez <brandon@brr.dev>",
