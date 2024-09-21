@@ -2,9 +2,7 @@
 
 import { ContentfulAPISettings } from '../ContentfulAPI.types';
 import { ArrayResponse, SysTypes } from '../types';
-import Assets from '../api/assets';
-import Entries from '../api/entries';
-import Links from '../api/links';
+import { Assets, Entries, Links } from '../api';
 import { Fetcher } from '@brr-dev/fetcher';
 
 /**
